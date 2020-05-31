@@ -5,3 +5,7 @@
 *.Rproj
 *.h5
 .DS_Store
+
+# Jupyter
+.ipynb_checkpoints
+
